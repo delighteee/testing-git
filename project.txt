@@ -1,1 +1,1 @@
-this is the beginning of my git project.
+This is the beginning of my git project.
